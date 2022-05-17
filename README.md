@@ -4,6 +4,7 @@ app to generate README file
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Contribution](#Contribution)
   * [Tests](#tests)
   * [Questions](#questions)
 ## Installation
